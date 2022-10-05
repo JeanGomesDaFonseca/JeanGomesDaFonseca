@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Sistemas da Informação
 - 💡 Disponível para Estagío
-- 🎖️ Formado em HTML, CSS e JAVASCRIPT AVANÇADOS
+- 🎖️ Formado em HTML, CSS e JAVASCRIPT, REACT, NODE.JS
 - 🌱 Estudante de Desenvolvimento Web Full Stack
 
 <div align="center">

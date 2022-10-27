@@ -1,9 +1,9 @@
 ## Olá, eu sou o Jean Gomes
 
-- 🎓 Cursando Sistemas da Informação
-- 💡 Disponível para Estagío
-- 🎖️ Habilidades em HTML, CSS e JAVASCRIPT, REACT, NODE.JS
-- 🌱 Estudante de Desenvolvimento Web Full Stack
+- 🎓 Cursando Sistemas da Informação.
+- 💡 Disponível para Estagío.
+- 🎖️ Habilidades em HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS.
+- 🌱 Estudante de Desenvolvimento Web Full Stack.
 
 <div align="center">
   <a href="https://github.com/JeanGomesDaFonseca">

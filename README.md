@@ -1,7 +1,7 @@
 ## Olá, eu sou o Jean Gomes
 
 - 🎓 Cursando Sistemas da Informação.
-- 💡 Disponível para Estagío.
+- 💡 Estagiário da Dguests.
 - 🎖️ Habilidades em HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS.
 - 🌱 Estudante de Desenvolvimento Web Full Stack.
 

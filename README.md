@@ -3,7 +3,7 @@
 - 🎓 Cursando Sistemas da Informação.
 - 💡 Estagiário da Dguests.
 - 🎖️ Habilidades em HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS, STORYBOOK.
-- 🌱 Estudante de Desenvolvimento Web Full Stack.
+- 🌱 Front-End Developer.
 
 <div align="center">
   <a href="https://github.com/JeanGomesDaFonseca">

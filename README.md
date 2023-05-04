@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Sistemas da Informação.
 - 💡 Estagiário da Dguests.
-- 🎖️ Habilidades em HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS.
+- 🎖️ Habilidades em HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS, STORYBOOK.
 - 🌱 Estudante de Desenvolvimento Web Full Stack.
 
 <div align="center">

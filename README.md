@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **JavaScript | React.js | Node.js | AWS | HTML | CSS | Styled-components |Storybook**
+ Linguagens: **JavaScript | React.js | Node.js | AWS | HTML | CSS | Styled-components |Storybook**
 </p>
 
 <p align="left">

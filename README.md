@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me Chamo Jean, tenho 26 anos e estou aprimorando minhas habilidades como <strong>Dev Front-End</strong>.<br>
+  Olá, me Chamo Jean, tenho 27 anos e estou aprimorando minhas habilidades como <strong>Dev Front-End</strong>.<br>
   Atuo hoje como estágiario e estou no 6° semestre da faculdade de Sistemas da Informação.
 </p>
 

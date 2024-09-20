@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, me Chamo Jean, tenho 27 anos e estou aprimorando minhas habilidades como <strong>Dev Front-End</strong>.<br>
-  Atuo hoje como Desenvolvedor Front-End Jr e estou no 6° semestre da faculdade de Sistemas da Informação.
+  Atuo hoje como Desenvolvedor Front-End Jr e estou no 8° semestre da faculdade de Sistemas da Informação.
 </p>
 
 <p align="left">

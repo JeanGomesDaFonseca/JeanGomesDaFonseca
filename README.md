@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me Chamo Jean, tenho 27 anos e estou aprimorando minhas habilidades como <strong>Dev Front-End</strong>.<br>
+  Olá, me Chamo Jean, tenho 28 anos e estou aprimorando minhas habilidades como <strong>Dev Front-End</strong>.<br>
   Atuo hoje como Desenvolvedor Front-End Jr e estou no 8° semestre da faculdade de Sistemas da Informação.
 </p>
 
 <p align="left">
- Linguagens: **JavaScript | React.js | Node.js | AWS | HTML | CSS | Styled-components |Storybook**
+ Linguagens: **HTML | CSS | JavaScript | React.js | Next.js | Node.js | AWS | Serverless | Styled-components | Storybook | Jest.js**
 </p>
 
 <p align="left">
